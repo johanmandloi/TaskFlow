@@ -60,7 +60,7 @@ taskflow-api/
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/akshatmhjj/taskflow-api.git
+git clone https://github.com/johanmandloi/TaskFlow.git
 cd taskflow-api
 `
 

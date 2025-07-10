@@ -175,5 +175,4 @@ To support efficient data loading on mobile and low-bandwidth clients, the follo
 
 ---
 
-*Author:* akshatmhjj
-*Repo:* [Edu-Track](https://github.com/akshatmhjj/EduTrack)
+*Author:* johanmandloi
